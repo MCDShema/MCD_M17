@@ -1,0 +1,19 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/mnt/sdcard/roms/gameandwatch/Donkey Kong Jr. (Coleco).mgw",
+      "label": "Donkey Kong Jr.",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5510B65B|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/mnt/sdcard/roms/scummvm/Leisure Suit Larry/NEWSCIV.EXE",
+      "label": "Leisure Suit Larry 1- In the Land of the Lounge Lizards",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "902DE88E|crc",
+      "db_name": "DOS.lpl"
+    }
+  ]
+}

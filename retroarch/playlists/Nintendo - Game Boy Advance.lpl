@@ -1,0 +1,19 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/mnt/sdcard/roms/gba/Crazy Taxi - Catch a Ride (USA).gba",
+      "label": "Crazy Taxi - Catch a Ride (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8EC709D6|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    }
+  ]
+}

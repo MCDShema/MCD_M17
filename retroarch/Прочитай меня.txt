@@ -1,0 +1,15 @@
+Прописать в файле /.emulationstation/es_systems.cfg
+
+	<system>
+		<name>retroarch</name>
+		<fullname>RetroArch</fullname>
+		<manufacturer>RetroArch</manufacturer>
+		<release>Varies</release>
+		<hardware>retroarch</hardware>			
+		<path>/sdcard/retroarch</path>
+		<extension>.sh .SH</extension>
+		<command>/sdcard/retroarch/retroarch -v --log-file /dev/console</command>
+		<platform>ports</platform>
+		<theme>ports</theme>
+	</system>
+

@@ -1,0 +1,75 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/mnt/sdcard/roms/fbneo/fbneo/ym2608.zip",
+      "label": "YM2608 Internal ROM",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5B4C29C4|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/mnt/sdcard/roms/fbneo/fbneo/skns.zip",
+      "label": "Super Kaneko Nova System BIOS",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "33CA0801|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/mnt/sdcard/roms/fbneo/fbneo/pgm.zip",
+      "label": "PGM (Polygame Master) System BIOS",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FEFB84F1|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/mnt/sdcard/roms/fbneo/fbneo/nmk004.zip",
+      "label": "NMK004 Internal ROM",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A6099353|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/mnt/sdcard/roms/fbneo/fbneo/midssio.zip",
+      "label": "Midway SSIO Sound Board Internal pROM",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7620BD32|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/mnt/sdcard/roms/fbneo/fbneo/isgsm.zip",
+      "label": "ISG Selection Master Type 2006 System BIOS",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "26856BF9|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/mnt/sdcard/roms/fbneo/fbneo/cchip.zip",
+      "label": "C-Chip Internal ROM",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "23DEBECB|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/mnt/sdcard/roms/arcade/pgm.zip",
+      "label": "PGM (Polygame Master) System BIOS",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FEFB84F1|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    }
+  ]
+}

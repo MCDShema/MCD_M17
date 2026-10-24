@@ -1,0 +1,131 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 2,
+  "items": [
+    {
+      "path": "/storage/roms/pico-8/Super Mario Machine Gun.p8.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/pico-8/picohot.p8.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "{",
+      "label": "  \"version\": \"1.5\",",
+      "core_path": "  \"default_core_path\": \"\",",
+      "core_name": "  \"default_core_name\": \"\",",
+      "crc32": "  \"label_display_mode\": 0,",
+      "db_name": "  \"right_thumbnail_mode\": 0,"
+    },
+    {
+      "path": "  \"left_thumbnail_mode\": 0,",
+      "label": "  \"sort_mode\": 2,",
+      "core_path": "  \"items\": [",
+      "core_name": "    {",
+      "crc32": "      \"path\": \"/storage/roms/pico-8/Super Mario Machine Gun.p8.png\",",
+      "db_name": "      \"label\": \"\","
+    },
+    {
+      "path": "      \"core_path\": \"builtin\",",
+      "label": "      \"core_name\": \"imageviewer\",",
+      "core_path": "      \"crc32\": \"\",",
+      "core_name": "      \"db_name\": \"\"",
+      "crc32": "    },",
+      "db_name": "    {"
+    },
+    {
+      "path": "      \"path\": \"{\",",
+      "label": "      \"label\": \"  \\\"version\\\": \\\"1.5\\\",\",",
+      "core_path": "      \"core_path\": \"  \\\"default_core_path\\\": \\\"\\\",\",",
+      "core_name": "      \"core_name\": \"  \\\"default_core_name\\\": \\\"\\\",\",",
+      "crc32": "      \"crc32\": \"  \\\"label_display_mode\\\": 0,\",",
+      "db_name": "      \"db_name\": \"  \\\"right_thumbnail_mode\\\": 0,\""
+    },
+    {
+      "path": "    },",
+      "label": "    {",
+      "core_path": "      \"path\": \"  \\\"left_thumbnail_mode\\\": 0,\",",
+      "core_name": "      \"label\": \"  \\\"sort_mode\\\": 2,\",",
+      "crc32": "      \"core_path\": \"  \\\"items\\\": [\",",
+      "db_name": "      \"core_name\": \"    {\","
+    },
+    {
+      "path": "      \"crc32\": \"      \\\"path\\\": \\\"/storage/roms/pico-8/Super Mario Machine Gun.p8.png\\\",\",",
+      "label": "      \"db_name\": \"      \\\"label\\\": \\\"\\\",\"",
+      "core_path": "    },",
+      "core_name": "    {",
+      "crc32": "      \"path\": \"      \\\"core_path\\\": \\\"builtin\\\",\",",
+      "db_name": "      \"label\": \"      \\\"core_name\\\": \\\"imageviewer\\\",\","
+    },
+    {
+      "path": "      \"core_path\": \"      \\\"crc32\\\": \\\"\\\",\",",
+      "label": "      \"core_name\": \"      \\\"db_name\\\": \\\"\\\"\",",
+      "core_path": "      \"crc32\": \"    },\",",
+      "core_name": "      \"db_name\": \"    {\"",
+      "crc32": "    },",
+      "db_name": "    {"
+    },
+    {
+      "path": "      \"path\": \"      \\\"path\\\": \\\"/storage/roms/pico-8/picohot.p8.png\\\",\",",
+      "label": "      \"label\": \"      \\\"label\\\": \\\"\\\",\",",
+      "core_path": "      \"core_path\": \"      \\\"core_path\\\": \\\"builtin\\\",\",",
+      "core_name": "      \"core_name\": \"      \\\"core_name\\\": \\\"imageviewer\\\",\",",
+      "crc32": "      \"crc32\": \"      \\\"crc32\\\": \\\"\\\",\",",
+      "db_name": "      \"db_name\": \"      \\\"db_name\\\": \\\"\\\"\""
+    },
+    {
+      "path": "    },",
+      "label": "    {",
+      "core_path": "      \"path\": \"    },\",",
+      "core_name": "      \"label\": \"    {\",",
+      "crc32": "      \"core_path\": \"      \\\"path\\\": \\\"{\\\",\",",
+      "db_name": "      \"core_name\": \"      \\\"label\\\": \\\"  \\\\\\\"version\\\\\\\": \\\\\\\"1.5\\\\\\\",\\\",\","
+    },
+    {
+      "path": "      \"crc32\": \"      \\\"core_path\\\": \\\"  \\\\\\\"default_core_path\\\\\\\": \\\\\\\"\\\\\\\",\\\",\",",
+      "label": "      \"db_name\": \"      \\\"core_name\\\": \\\"  \\\\\\\"default_core_name\\\\\\\": \\\\\\\"\\\\\\\",\\\",\"",
+      "core_path": "    },",
+      "core_name": "    {",
+      "crc32": "      \"path\": \"      \\\"crc32\\\": \\\"  \\\\\\\"label_display_mode\\\\\\\": 0,\\\",\",",
+      "db_name": "      \"label\": \"      \\\"db_name\\\": \\\"  \\\\\\\"right_thumbnail_mode\\\\\\\": 0,\\\"\","
+    },
+    {
+      "path": "      \"core_path\": \"    },\",",
+      "label": "      \"core_name\": \"    {\",",
+      "core_path": "      \"crc32\": \"      \\\"path\\\": \\\"  \\\\\\\"left_thumbnail_mode\\\\\\\": 0,\\\",\",",
+      "core_name": "      \"db_name\": \"      \\\"label\\\": \\\"  \\\\\\\"sort_mode\\\\\\\": 2,\\\",\"",
+      "crc32": "    },",
+      "db_name": "    {"
+    },
+    {
+      "path": "      \"path\": \"      \\\"core_path\\\": \\\"  \\\\\\\"items\\\\\\\": [\\\",\",",
+      "label": "      \"label\": \"      \\\"core_name\\\": \\\"    {\\\",\",",
+      "core_path": "      \"core_path\": \"      \\\"crc32\\\": \\\"      \\\\\\\"path\\\\\\\": \\\\\\\"/mnt/sdcard/roms/portsnotscript/2048/images/2048.png\\\\\\\",\\\",\",",
+      "core_name": "      \"core_name\": \"      \\\"db_name\\\": \\\"      \\\\\\\"label\\\\\\\": \\\\\\\"\\\\\\\",\\\"\",",
+      "crc32": "      \"crc32\": \"    },\",",
+      "db_name": "      \"db_name\": \"    {\""
+    },
+    {
+      "path": "    },",
+      "label": "    {",
+      "core_path": "      \"path\": \"      \\\"path\\\": \\\"      \\\\\\\"core_path\\\\\\\": \\\\\\\"builtin\\\\\\\",\\\",\",",
+      "core_name": "      \"label\": \"      \\\"label\\\": \\\"      \\\\\\\"core_name\\\\\\\": \\\\\\\"imageviewer\\\\\\\",\\\",\",",
+      "crc32": "      \"core_path\": \"      \\\"core_path\\\": \\\"      \\\\\\\"crc32\\\\\\\": \\\\\\\"\\\\\\\",\\\",\",",
+      "db_name": "      \"core_name\": \"      \\\"core_name\\\": \\\"      \\\\\\\"db_name\\\\\\\": \\\\\\\"\\\\\\\"\\\",\","
+    }
+  ]
+}

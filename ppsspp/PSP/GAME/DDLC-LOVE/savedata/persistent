@@ -1,0 +1,5 @@
+player='spectral'
+sp={6,3,9}
+persistent={ptr=0,chr={m=1,s=1},
+clear={0,0,0,0,0,0,0,0,0},
+act2={0,0,0,0}}

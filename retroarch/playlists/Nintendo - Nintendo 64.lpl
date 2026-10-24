@@ -1,0 +1,19 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/mnt/sdcard/roms/nintendo64/Super Smash Bros. (USA).n64",
+      "label": "Super Smash Bros. (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DD2DF6D9|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+dosbox_pure_mouse_sensitivity = "100"
+dosbox_pure_joystick_analog_deadzone = "15%"
+dosbox_pure_on_screen_keyboard = "false"
