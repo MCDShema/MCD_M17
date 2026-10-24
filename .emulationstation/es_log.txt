@@ -1,0 +1,49 @@
+1970-01-01 00:00:11	ERROR	Resource path not found: :/splash.xml
+1970-01-01 00:00:13	ERROR	System "odyssey2" path does not exist !
+1970-01-01 00:00:13	ERROR	System "xrick" path does not exist !
+1970-01-01 00:00:13	ERROR	System "supergrafx" path does not exist !
+1970-01-01 00:00:13	ERROR	System "supervision" path does not exist !
+1970-01-01 00:00:13	ERROR	System "3ds" path does not exist !
+1970-01-01 00:00:13	ERROR	System "wii" path does not exist !
+1970-01-01 00:00:13	ERROR	System "gamecube" path does not exist !
+1970-01-01 00:00:13	ERROR	System "openbor" path does not exist !
+1970-01-01 00:00:13	ERROR	System "pc-9800" path does not exist !
+1970-01-01 00:00:13	ERROR	System "ggh" path does not exist !
+1970-01-01 00:00:13	ERROR	System "setup" path does not exist !
+1970-01-01 00:00:14	ERROR	System "channelf" path does not exist !
+1970-01-01 00:00:14	ERROR	System "x1" path does not exist !
+1970-01-01 00:00:14	ERROR	System "pc88" path does not exist !
+1970-01-01 00:00:14	ERROR	System "bomberman" path does not exist !
+1970-01-01 00:00:14	ERROR	System "arduboy" path does not exist !
+1970-01-01 00:00:14	ERROR	System "microw8" path does not exist !
+1970-01-01 00:00:14	ERROR	System "lowresnx" path does not exist !
+1970-01-01 00:00:14	ERROR	System "vitaquake2" path does not exist !
+1970-01-01 00:00:14	ERROR	System "setup" path does not exist !
+1970-01-01 00:00:14	ERROR	System "puzzlescript" path does not exist !
+1970-01-01 00:00:14	ERROR	System "palm" path does not exist !
+1970-01-01 00:00:14	ERROR	System "reminiscence" path does not exist !
+1970-01-01 00:00:29	ERROR	Error loading sound ""!
+	Mix_LoadWAV_RW with NULL src
+1970-01-01 00:00:29	ERROR	Resource path not found: :/splash.xml
+1970-01-01 00:00:29	ERROR	Error loading sound ""!
+	Mix_LoadWAV_RW with NULL src
+1970-01-01 00:00:38	ERROR	Error loading sound ""!
+	Mix_LoadWAV_RW with NULL src
+1970-01-01 00:00:38	ERROR	Resource path not found: :/splash.xml
+1970-01-01 00:00:39	ERROR	Error loading sound ""!
+	Mix_LoadWAV_RW with NULL src
+1970-01-01 00:01:25	ERROR	Error loading sound ""!
+	Mix_LoadWAV_RW with NULL src
+1970-01-01 00:01:25	ERROR	Resource path not found: :/splash.xml
+1970-01-01 00:01:26	ERROR	Error loading sound ""!
+	Mix_LoadWAV_RW with NULL src
+1970-01-01 00:02:31	ERROR	Error loading sound ""!
+	Mix_LoadWAV_RW with NULL src
+1970-01-01 00:02:31	ERROR	Resource path not found: :/splash.xml
+1970-01-01 00:02:32	ERROR	Error loading sound ""!
+	Mix_LoadWAV_RW with NULL src
+1970-01-01 00:02:54	ERROR	Error loading sound ""!
+	Mix_LoadWAV_RW with NULL src
+1970-01-01 00:02:54	ERROR	Resource path not found: :/splash.xml
+1970-01-01 00:02:55	ERROR	Error loading sound ""!
+	Mix_LoadWAV_RW with NULL src

@@ -1,0 +1,12 @@
+swapfile
+.DS_Store
+*.log
+Thumbs.db
+*.swp
+*~
+*.bak
+single_*.sv
+single_*.hsv
+*.sv.bak
+a.o
+scratch/

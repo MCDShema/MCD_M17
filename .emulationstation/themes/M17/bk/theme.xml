@@ -1,0 +1,23 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+    <text name="nameLabel" extra="true">
+    <text>Bk</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>electronics BK</text>
+
+  </text>    
+  <text name="shortdescription" extra="true">
+   <text>more bits</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>BK is a family of Soviet 16-bit home and educational computers</text>
+  </text>
+ </view>
+</theme>

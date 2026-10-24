@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<gameList parentHash="492173">
+	<game>
+		<path>./kof99.zip</path>
+		<name>00003  KOF 99</name>
+		<name>00003   qh99</name>
+		<image>./images/kof99.png</image>
+		<gameid>3</gameid>
+		<video_id>0</video_id>
+		<class_type>0</class_type>
+		<game_type>0</game_type>
+		<timer>/sdcard/game/cps</timer>
+		<zh_CN>00003  拳皇99</zh_CN>
+		<zh_TW>00003  拳皇99</zh_TW>
+		<ko_KR>00003  황제 99</ko_KR>
+	</game>
+</gameList>

@@ -1,0 +1,40 @@
+./drastic: /usr/lib/libasound.so.2: no version information available (required by ./drastic)
+./drastic: /usr/lib/libasound.so.2: no version information available (required by ./drastic)
+Starting DraStic (version r2.5.0.4)
+
+Checking directory /mnt/sdcard/Emus/m17/NDS.pak/drastic/backup: It's there.
+Checking directory /mnt/sdcard/Emus/m17/NDS.pak/drastic/savestates: It's there.
+Checking directory /mnt/sdcard/Emus/m17/NDS.pak/drastic/config: It's there.
+Checking directory /mnt/sdcard/Emus/m17/NDS.pak/drastic/profiles: It's there.
+Checking directory /mnt/sdcard/Emus/m17/NDS.pak/drastic/unzip_cache: It's there.
+Checking directory /mnt/sdcard/Emus/m17/NDS.pak/drastic/system: It's there.
+Checking directory /mnt/sdcard/Emus/m17/NDS.pak/drastic/input_record: It's there.
+Checking directory /mnt/sdcard/Emus/m17/NDS.pak/drastic/cheats: It's there.
+Checking directory /mnt/sdcard/Emus/m17/NDS.pak/drastic/slot2: It's there.
+Checking directory /mnt/sdcard/Emus/m17/NDS.pak/drastic/scripts: It's there.
+Setting default configuration.
+SDL input: Setting default controls for Generic X-Box Pad
+Loading directory config file /mnt/sdcard/Emus/m17/NDS.pak/drastic/config/drastic.cf2
+Loading config file /mnt/sdcard/Emus/m17/NDS.pak/drastic/config/drastic.cfg
+  2 joystick(s) found.
+Got memory mapped buffer at 0xb6454000 (drastic_mapped_memory.dat)
+Using memory map offset 0
+Direct mapping main RAM to 2000000
+Direct mapping main RAM to 2400000
+Direct mapping main RAM to 2800000
+Direct mapping main RAM to 2c00000
+  Initializing ARM9 bus-level memory map.
+  Initializing ARM7 bus-level memory map.
+  Initializing CP15.
+  Initializing DMA.
+  video_3d render targets: 0xad3fcc0 0xad63d80 0xad87e40 0xadabf00
+ALSA output: requested rate of 44100, got 44100.
+ALSA output: requested buffer size of 8192, got 8192.
+ALSA output: requested period size of 2048, got 2048.
+ALSA output: Using synchronous engine.
+1524.326172 cycles per output sample (0.000656 samples per cycle)
+Loaded 6722 games in database file /mnt/sdcard/Emus/m17/NDS.pak/drastic/game_database.xml.
+Loaded cheat directory from database file /mnt/sdcard/Emus/m17/NDS.pak/drastic/usrcheat.dat. Loaded 4204 games.
+Processing command line options.
+arm_release_ver of this libMali is r7p0-00rel0, rk_so_ver is '2', built at '10:34:14', on 'Dec  6 2018'. 
+Post Color Buffer Success

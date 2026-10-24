@@ -1,0 +1,23 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+    <text name="nameLabel" extra="true">
+    <text>Cannonball</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>Cannonball</text>
+
+  </text> 
+  <text name="shortdescription" extra="true">
+   <text>2019  ·  32-bit Портативная консоль</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>CannonBall — это усовершенствованный игровой движок для аркадной игры OutRun. Исходный ассемблерный код 68000 и Z80 был переписан на C++.</text>
+  </text>
+ </view>
+</theme>

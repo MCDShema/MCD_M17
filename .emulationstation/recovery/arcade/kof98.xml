@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<gameList parentHash="492173">
+	<game>
+		<path>./kof98.zip</path>
+		<name>00002  KOF 98</name>
+		<name>00002   qh98</name>
+		<image>./images/kof98.png</image>
+		<gameid>2</gameid>
+		<video_id>0</video_id>
+		<class_type>0</class_type>
+		<game_type>0</game_type>
+		<timer>/sdcard/game/cps</timer>
+		<zh_CN>00002  拳皇98</zh_CN>
+		<zh_TW>00002  拳皇98</zh_TW>
+		<ko_KR>00002  링킹 98</ko_KR>
+	</game>
+</gameList>

@@ -1,0 +1,23 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+    <text name="nameLabel" extra="true">
+    <text>Cave Story</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>Cave Story</text>
+
+  </text> 
+  <text name="shortdescription" extra="true">
+   <text>Cave Story · NXEngine</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Cave Story представляет собой классический двухмерный нелинейный платформер и похожа по игровому процессу на такие классические игры, как Metroid (Nintendo) и Castlevania (Konami).</text>
+  </text>
+ </view>
+</theme>

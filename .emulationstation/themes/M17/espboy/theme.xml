@@ -1,0 +1,22 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+    <text name="nameLabel" extra="true">
+    <text>espboy</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>ESPBOY</text>
+  </text>    
+  <text name="shortdescription" extra="true">
+   <text>2019</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Unique handmade gadget is designed IT/IoT promote engineering creativity. Programming, neo-retro game development, MCU and IoT technologies, electronics and digital devices making.</text>
+  </text>
+ </view>
+</theme>
